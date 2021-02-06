@@ -1,0 +1,26 @@
+[
+    {
+        "h_low": 0,
+        "h_high": 51,
+        "s_low": 0,
+        "s_high": 255,
+        "v_low": 146,
+        "v_high": 226
+    },
+    {
+        "h_low": 13,
+        "h_high": 51,
+        "s_low": 30,
+        "s_high": 255,
+        "v_low": 146,
+        "v_high": 226
+    },
+    {
+        "h_low": 17,
+        "h_high": 51,
+        "s_low": 34,
+        "s_high": 217,
+        "v_low": 146,
+        "v_high": 226
+    }
+]
